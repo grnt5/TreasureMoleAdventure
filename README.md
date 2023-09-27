@@ -1,4 +1,4 @@
-﻿# TreasureMolde Adventure
+﻿# TreasureMole Adventure
 
 **About Treasure Mole Adventure**
 
