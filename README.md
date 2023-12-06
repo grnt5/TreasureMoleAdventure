@@ -1,4 +1,8 @@
-﻿# TreasureMole Adventure
+﻿# Treasure Mole Adventure
+
+**Project Background**
+
+This is a game I made for my term project for 15-112 Fundamentals of Programming and Computer Science at CMU in Spring 2022. Besides some typo fixes, all markdown and files remain unchanged since the project's submission.
 
 **About Treasure Mole Adventure**
 
