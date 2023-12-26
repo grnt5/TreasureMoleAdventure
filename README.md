@@ -2,7 +2,7 @@
 
 **Project Background**
 
-This is a game I made for my term project for 15-112 Fundamentals of Programming and Computer Science at CMU in Spring 2022 (Grade: 93.7%). Besides some typo fixes, all markdown and files remain unchanged since the project's submission.
+This is a game I made for my term project for 15-112 Fundamentals of Programming and Computer Science at CMU in Spring 2022 (Grade: 93.7%). Using the Tkinter graphics library and graph-based algorithms (namely Cellular Automata, Prim's Algorithm, and Breadth First Search), this project is a game where the player must collect treasures in a cave with the help moles they find in the cave, similar to Nintendo's Pikmin series of games. Besides some typo fixes and inclusions of links to important resources, all markdown below and files in the repository remain unchanged since the project's submission.
 
 **About Treasure Mole Adventure**
 
@@ -24,8 +24,14 @@ Download the code as a .zip file and extract it. Then run main.py
 
 **Required libraries**
 
-This program uses the CMU 112 graphics library, which requires PIL/Pillow and
+This program uses the CMU 112 graphics library (an altered version of the Tkinter library), which requires PIL/Pillow and
 Requests to work properly.
+
+One can find the CMU 112 graphics library file at the following links:
+
+Current version (As of December 26th, 2023): https://www.cs.cmu.edu/~112/notes/cmu_112_graphics.py
+
+Version used for this project: https://www.kosbie.net/cmu/spring-22/15-112/notes/cmu_112_graphics.py
 
 **Shortcut commands**
 
